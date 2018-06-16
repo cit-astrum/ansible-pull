@@ -1,4 +1,5 @@
 - hosts: localhost
   tasks:
     - debug: msg='Hello'
+    - debug: msg='World'
     
